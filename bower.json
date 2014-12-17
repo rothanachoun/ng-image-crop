@@ -1,0 +1,21 @@
+{
+  "name": "ng-image-crop",
+  "main": "ng-image-crop.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rothanachoun/ng-image-crop",
+  "authors": [
+    "rothanachoun <rothana.choun7@gmail.com>"
+  ],
+  "dependencies": {
+    "jcrop": "0.9.12"
+  },
+  "description": "crop image.",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "image",
+    "crop",
+    "cropper"
+  ],
+  "license": "MIT"
+}

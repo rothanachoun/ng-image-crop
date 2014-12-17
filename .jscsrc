@@ -1,0 +1,26 @@
+/**
+* JSCS is a code style linter/formatter for programmatically enforcing your style guide.
+* You can configure JSCS for your project/company using over 150 validation rules,
+* including presets from popular style guides like jQuery, Airbnb, Google, and more.
+*
+* Airbnb preset:
+* https://github.com/jscs-dev/node-jscs/blob/master/presets/airbnb.json
+*
+* Create your own custom preset:
+* https://github.com/jscs-dev/node-jscs/wiki/Creating-a-Custom-Preset-or-Config
+*
+* Rule list:
+* http://jscs.info/rules
+*/
+
+
+{
+  "preset": "airbnb",
+  "excludeFiles": [],
+  "fileExtensions": [".js"],
+  "safeContextKeyword": null,
+  "requireTrailingComma": null,
+  "requireCamelCaseOrUpperCaseIdentifiers": null,
+  "maximumLineLength": null,
+  "requireDollarBeforejQueryAssignment": false
+}
